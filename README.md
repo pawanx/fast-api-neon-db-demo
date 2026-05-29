@@ -396,15 +396,10 @@ for Swagger API documentation.
 
 ## Swagger Documentation
 
-![Swagger](./screenshots/swagger.png)
+![Swagger](./app/assets/swagger.jpg)
 
 ---
 
-## Neon Database Dashboard
-
-![NeonDB](./screenshots/neondb.png)
-
----
 
 ## Contact
 
