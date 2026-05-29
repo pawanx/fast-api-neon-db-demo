@@ -8,7 +8,7 @@ Built with FastAPI, Neon PostgreSQL, SQLAlchemy ORM, and Pydantic for high-perfo
 
 ## Demo Link
 
-[API Documentation]([YOUR_SWAGGER_DOCS_LINK](https://fast-api-neon-db-demo.onrender.com/docs))
+[API Documentation](https://fast-api-neon-db-demo.onrender.com/docs)
 
 ---
 
